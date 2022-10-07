@@ -1,0 +1,18 @@
+.header{
+    padding: 20px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 4px 8px;
+    border: 2px solid black;
+    
+}
+header a:hover{
+    background-color: green;
+}
+.active{
+    background-color: blue;
+    color: #fff;
+    border: none;
+}
